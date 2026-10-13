@@ -6,6 +6,11 @@
 
 ---
 
+## Certificate
+
+<img width="4875" height="3446" alt="6acde2b003911c6e37d51133_page-0001" src="https://github.com/user-attachments/assets/df7a3b64-525b-457b-ba05-f2ad3d003f7e" />
+te.jpg)
+
 ## Methodology Overview
 
 The attack lifecycle across all three cloud modules followed a consistent pattern:
