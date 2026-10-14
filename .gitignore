@@ -1,0 +1,34 @@
+﻿# Credentials / secrets — never commit these
+*.pem
+*.key
+*key.json
+*credentials*
+.env
+.env.*
+*_token.txt
+*token*.json
+
+# Lab artifacts you may generate while working these labs
+/tmp/gitdump/
+*.gitdump/
+dump/
+loot/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Downloaded tool installs (don't vendor these into the repo)
+cloud_enum/
+google-cloud-sdk/
+google-cloud-cli-linux-x86_64.tar.gz
